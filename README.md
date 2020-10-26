@@ -26,7 +26,7 @@ Proyecto FullStack, nodejs, express, mongoDB
 ## En caso de que falle la ejecucion del npm run server:dev
 # Desintalar los siguientes paquetes
 ### npm uninstall webpack webpack-cli webpack-dev-middleware
-# En defecto, instalar las siguientes versiones (anteriores)
+# En su defecto, instalar las siguientes versiones (anteriores)
 ### npm install webpack@5.1.1 webpack-cli@3.3.12 webpack-dev-middleware@3.7.2
 
 ## Otra posible solucion

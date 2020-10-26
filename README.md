@@ -1,6 +1,7 @@
 # app-libros-2
 Proyecto FullStack, nodejs, express, mongoDB
 
+![screenshot proyecto](https://user-images.githubusercontent.com/41482092/97237319-e052b180-17b4-11eb-85f5-a52bbe7f07bb.png)
 
 ## Dependencias del Backend
 ### npm install express
